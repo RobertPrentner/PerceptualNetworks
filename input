@@ -1,0 +1,12 @@
+#1. integer parameters
+16 #numagents;
+100 #max_time_steps;
+1 #bits; (only 1-bit agents)
+3 #size_input;
+5 #alpha;
+51 #n_pop;
+25 #n_ind;
+#2. float parameters
+0.01 #p_mutate;
+0.2 #p_lambda;
+#3. please see main.py for read-out details; also check the global_functions.py file for additional specifications
